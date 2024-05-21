@@ -1,0 +1,45 @@
+<departments>
+    <department>
+        <name>Computer Science</name>
+        <years>
+            <year>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <name>Revanth</name>
+                        <id>532</id>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <name>Second Year</name>
+                <students>
+                    <student>
+                        <name>kumar</name>
+                        <id>194</id>
+                    </student>
+                </students>
+            </year>
+        </years>
+    </department>
+    <department>
+        <name>Electrical Engineering</name>
+        <years>
+            <year>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <name>krishna</name>
+                        <id>2404</id>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <name>Second Year</name>
+                <students>
+                    <!-- Add more students here -->
+                </students>
+            </year>
+        </years>
+    </department>
+</departments>
